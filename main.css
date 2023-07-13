@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoeo UI', 'Robot', 'Oxygen', 'Ubuntu', 'Cantraell', 'Fira Sans', 'Droid Sans';
+}
+
+ #navbar{
+    background-color: #3268a8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+ }
+
+ .pagecontent{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 25px;
+ }
